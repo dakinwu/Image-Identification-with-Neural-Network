@@ -4,6 +4,6 @@
 
 2. Code：Alexnet-SGD+Vgg19-RSMprop.ipynb、Alexnet-Adam+Vgg19-Adam.ipynb、Alexnet-32+Vgg19-32.ipynb
 
-3. Written Report：Chest X-ray Images
+3. Written Report：Chest Image Identification.pdf
 
 4. Data Resource：https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
